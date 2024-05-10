@@ -1,7 +1,8 @@
 QrShop - Boutique en Ligne
 
 Bienvenue sur QrShop, votre boutique e-commerce pour téléphones, PC, et autres produits électroniques. Ce projet contient le code source développé en Java pour notre site web.
-"# QrShop_java" 
+
+
 login admin:
 ![login](https://github.com/fadwaqarouach/fadwa_QrShop_java/assets/160190692/57907554-201a-4621-ab70-464d950a4560)
 
